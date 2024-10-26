@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todu-app/static/css/main.e6c13ad2.css",
-    "main.js": "/todu-app/static/js/main.4a377217.js",
-    "static/js/453.ed3810f9.chunk.js": "/todu-app/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/todu-app/index.html",
-    "main.e6c13ad2.css.map": "/todu-app/static/css/main.e6c13ad2.css.map",
-    "main.4a377217.js.map": "/todu-app/static/js/main.4a377217.js.map",
-    "453.ed3810f9.chunk.js.map": "/todu-app/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Todu-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Todu-app/static/js/main.4b7e1aa7.js",
+    "static/js/453.ed3810f9.chunk.js": "/Todu-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Todu-app/index.html",
+    "main.e6c13ad2.css.map": "/Todu-app/static/css/main.e6c13ad2.css.map",
+    "main.4b7e1aa7.js.map": "/Todu-app/static/js/main.4b7e1aa7.js.map",
+    "453.ed3810f9.chunk.js.map": "/Todu-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4a377217.js"
+    "static/js/main.4b7e1aa7.js"
   ]
 }
